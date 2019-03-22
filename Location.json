@@ -2,7 +2,7 @@
   {
     "location_ID": "5c91f4b5b879e966061c510b",
     "locality": "Noida , Sector 10",
-    "city": "Noida",
+    "city": "Noida City 1",
     "state": "Uttar Pradesh",
     "country": "India",
     "lat": 28.5746,
@@ -11,7 +11,7 @@
   {
     "location_ID": "5c91f4b5b9c6d82cecafb810",
     "locality": "Noida , Sector 132",
-    "city": "Delhi",
+    "city": "Noida City 2",
     "state": "Uttar Pradesh",
     "country": "India",
     "lat": 28.5746,
@@ -20,7 +20,7 @@
   {
     "location_ID": "5c91f4b5df46909bed3c2db4",
     "locality": "Noida , Sector 32",
-    "city": "Abc",
+    "city": "Noida City 3",
     "state": "Uttar Pradesh",
     "country": "India",
     "lat": 28.5746,
@@ -29,7 +29,7 @@
   {
     "location_ID": "5c91f4b52e25ab540e893d02",
     "locality": "Noida , Sector 23",
-    "city": "Xyz",
+    "city": "Noida City 4",
     "state": "Uttar Pradesh",
     "country": "India",
     "lat": 28.5746,
@@ -38,7 +38,7 @@
   {
     "location_ID": "5c91f4b5f95a01075fd0b905",
     "locality": "Noida , Sector 26",
-    "city": "New Delhi",
+    "city": "Noida City 5",
     "state": "Uttar Pradesh",
     "country": "India",
     "lat": 28.5746,
@@ -47,7 +47,7 @@
   {
     "location_ID": "5c91f4b5e6140f5ea56ad509",
     "locality": "Noida , Sector 60",
-    "city": "City abc",
+    "city": "Noida City 6",
     "state": "Uttar Pradesh",
     "country": "India",
     "lat": 28.5746,
@@ -56,7 +56,7 @@
   {
     "location_ID": "5c91f4b5f6cc51e31249706a",
     "locality": "Noida , Sector 40",
-    "city": "abc xyz",
+    "city": "Noida City 7",
     "state": "Uttar Pradesh",
     "country": "India",
     "lat": 28.5746,
