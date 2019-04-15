@@ -3,6 +3,6 @@
     "status" : true,
     "message" : "TEST MSG",
     "code" : 200,
-    "data": { "test" : "this is a test" }
+    "data": {"test":"test","test1":[{"test1":"test nested"}]}
 
 }
